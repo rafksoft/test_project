@@ -1,0 +1,7 @@
+{
+    "name": "rafksoft/testproject",
+    "description": "nothing yet",
+    "type": "Yii2-modules",
+    "minimum-stability": "dev",
+    "require": {}
+}
